@@ -101,7 +101,7 @@ I'd like to place an order:
 
 Found you via your website!`;
 
-  const whatsappURL = `https://wa.me/919047362098?text=${encodeURIComponent(text)}`;
+  const whatsappURL = `https://wa.me/919047362039?text=${encodeURIComponent(text)}`;
   window.open(whatsappURL, '_blank');
 });
 
