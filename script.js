@@ -126,3 +126,4 @@ document.querySelectorAll('.cat-card, .testi-card, .step, .gallery-card, .icon-b
 
 // Init gallery
 renderGallery();
+
